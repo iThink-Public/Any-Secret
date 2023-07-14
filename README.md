@@ -30,4 +30,4 @@ We welcome you to experience and use Any Secret, and we are happy to receive you
 
 Any Secret made the encryption algorithm open source for customers to use and make sence of the security of Any Secret. Here, view the links below you can find the algorithm.
 
-- [Any Secret Encryption Alogirthm Open Source](./algorithm/ALGORITHM.md)
+- [Any Secret Encryption Alogirthm Open Source](./algorithm/READMD.md)
